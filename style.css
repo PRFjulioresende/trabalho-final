@@ -1,0 +1,76 @@
+
+
+
+h2{ 
+    text-align: center;
+    color: #E4CF8E;
+}
+
+body{
+    background-color: rgb(20, 21, 24);
+}
+
+
+
+h1{
+    color: #E4CF8E;
+    text-align: center;
+    font-size: 33;
+    font-family:  Arial, Helvetica, sans-serif ;
+}
+
+
+
+
+
+
+ 
+
+p{
+    color: #E4CF8E;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    size: 3;
+}
+
+
+
+.s3{
+    background-color: white;
+    background-image: url("TOPO\ SECAO\ 2.fw.png" );
+    background-repeat: repeat-x;
+    padding: 90px;
+}
+
+
+
+
+
+.s2{background-image: url("GARRET.jpg" ) ;
+    background-repeat: repeat-x;
+    text-align: center;
+}
+
+
+/* //////////////// BARRA DE ROLAGEM PRETA ////////////////////////// */
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background:#FF4D4D;
+    border-radius: 50px;
+}
+::-webkit-scrollbar-thumb{
+    background: #000;
+    border-radius: 50px;
+}
+/*  ////////////////  FIM BARRA DE ROLAGEM //////////////////////////  */
+
+
+
+
+
+
+
+
+
